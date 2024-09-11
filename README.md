@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m a passionate Frontend Developer specializing in React.js, JavaScript, HTML, and CSS. I love turning complex problems into elegant solutions and always aim to write clean and efficient code.
 
-![Header Image](https://github.com/muzammilyousuf/muzammilyousuf/blob/main/computer-coding-gif-5.gif)
+![Header Image](https://github.com/muzammilyousuf/muzammilyousuf/blob/main/programming.gif)
 
 ## 🚀 Skills
 
@@ -32,13 +32,13 @@ Here are a few projects that I'm particularly proud of:
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- [LinkedIn](https://www.linkedin.com/in/muzammil-yousuf/)
 - [Twitter](https://twitter.com/your-profile)
 - [Portfolio](https://your-portfolio.com)
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
+![Your GitHub Stats]([https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical](https://github.com/muzammilyousuf/muzammilyousuf/blob/main/computer-coding-gif-5.gif))
 
 ## 🛠️ Technologies & Tools
 
@@ -61,4 +61,4 @@ Feel free to reach out if you have any questions or just want to chat:
 
 Thanks for stopping by! 😄
 
-![Footer Image](https://media.giphy.com/media/l0HlCFRjrbUMzgiUg/giphy.gif)
+![Footer Image](https://github.com/muzammilyousuf/muzammilyousuf/blob/main/computer-coding-gif-5.gif)
