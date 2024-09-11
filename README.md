@@ -1,5 +1,5 @@
 # Hi there, I'm Muzammil Yousuf. 👋
-![Header Image](https://github.com/muzammilyousuf/muzammilyousuf/blob/main/coding.gif)
+![Header Image](https://github.com/muzammilyousuf/muzammilyousuf/blob/main/profile.gif)
 Welcome to my GitHub profile! I’m a passionate Frontend Developer specializing in 
 # React.js, JavaScript, HTML, and CSS. 
 
