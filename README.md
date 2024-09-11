@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m a passionate Frontend Developer specializing in React.js, JavaScript, HTML, and CSS. I love turning complex problems into elegant solutions and always aim to write clean and efficient code.
 
-![Header Image](https://github.com/muzammilyousuf/muzammilyousuf/blob/main/programming.gif)
+![Header Image](https://github.com/muzammilyousuf/muzammilyousuf/blob/main/programmingcoding.gif)
 
 ## 🚀 Skills
 
@@ -38,7 +38,7 @@ Here are a few projects that I'm particularly proud of:
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats]([https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical](https://github.com/muzammilyousuf/muzammilyousuf/blob/main/computer-coding-gif-5.gif))
+![Your GitHub Stats](![Header Image](https://github.com/muzammilyousuf/muzammilyousuf/blob/main/programming.gif)
 
 ## 🛠️ Technologies & Tools
 
