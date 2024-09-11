@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [MUZAMMIL YOUSUF] 👋
 
 Welcome to my GitHub profile! I’m a passionate Frontend Developer specializing in React.js, JavaScript, HTML, and CSS. I love turning complex problems into elegant solutions and always aim to write clean and efficient code.
 
