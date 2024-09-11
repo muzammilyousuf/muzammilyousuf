@@ -23,16 +23,19 @@ Here are my own projects that I'm particularly proud of:
 1. **[Fuelbooks](https://github.com/muzammilyousuf/muzammilyousuf/blob/main/0911.gif)**
    - Description: A complete accounting management for Petrol Pump / Fuel Stations.
    - Technologies: React, CSS, HTML5, JavaScript
+     
      ![Fuelbooks](https://github.com/muzammilyousuf/muzammilyousuf/blob/main/0911.gif)
 
 2. **[MCS](https://github.com/muzammilyousuf/muzammilyousuf/blob/main/0911(2).gif)**
    - Description: A complete website for Medical Center.
    - Technologies: React, JavaScript, CSS, Bootstrap
+     
      ![MCS](https://github.com/muzammilyousuf/muzammilyousuf/blob/main/0911(2).gif)
 
 3. **[Ama-zing Shop](https://wwww.ama-zingshop.com)**
    - Description: An E-commerce website for shopify.com
    - Technologies: Shopify.
+     
      ![Ama-zing Shop]()
 
 ## 🌐 Connect with Me
