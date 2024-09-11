@@ -1,7 +1,8 @@
 # Hi there, I'm Muzammil Yousuf. 👋
 Welcome to my GitHub profile!
 ![Header Image](https://github.com/muzammilyousuf/muzammilyousuf/blob/main/hi%20devs.gif)
-# I’m a passionate Frontend Developer specializing in React.js, JavaScript, HTML, and CSS. I love turning complex problems into elegant solutions and always aim to write clean and efficient code.
+# I’m a passionate Frontend Developer specializing in React.js, JavaScript, HTML, and CSS. 
+I love turning complex problems into elegant solutions and always aim to write clean and efficient code.
 
 ## 🚀 Skills
 
