@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m a passionate Frontend Developer specializing in React.js, JavaScript, HTML, and CSS. I love turning complex problems into elegant solutions and always aim to write clean and efficient code.
 
-![Header Image](https://media.giphy.com/media/3o6Zt4MdQzVqL0zH60/giphy.gif)
+![Header Image]([https://media.giphy.com/media/3o6Zt4MdQzVqL0zH60/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Feportfolio.utm.my%2Fuser%2Famit-hasan-sadhin%2Fprogramming-technique-01&psig=AOvVaw1AOBwAXPak9JLBv4f84ozt&ust=1726157905832000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDPpLmlu4gDFQAAAAAdAAAAABAZ)
 
 ## 🚀 Skills
 
