@@ -25,10 +25,10 @@ Here are my own projects that I'm particularly proud of:
    - Technologies: React, CSS, HTML5, JavaScript
    - ![Fuelbooks](https://github.com/muzammilyousuf/muzammilyousuf/blob/main/0911.gif)
 
-2. **[MCS](https://github.com/your-username/project2)**
+2. **[MCS](https://github.com/muzammilyousuf/muzammilyousuf/blob/main/0911(1).gif)**
    - Description: A complete website for Medical Center.
    - Technologies: React, JavaScript, CSS, Bootstrap
-   - ![MCS](https://media.giphy.com/media/3o6ZsXzY2b7jptRpuU/giphy.gif)
+   - ![MCS](https://github.com/muzammilyousuf/muzammilyousuf/blob/main/0911(1).gif)
 
 3. **[Ama-zing Shop](https://wwww.ama-zingshop.com)**
    - Description: An E-commerce website for shopify.com
