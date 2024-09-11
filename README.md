@@ -41,7 +41,7 @@ Here are my own projects that I'm particularly proud of:
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/muzammil-yousuf/)
-- [Indeed](https://indeed.com/muzammilyousuf)
+- [Indeed](https://profile.indeed.com/?hl=en_QA&co=QA&from=gnav-jobseeker-profile--profile-one-frontend)
 - [Upwork](https://upwork.com/muzammilyousuf)
 - [Freelancer](https://freelancers.com/muzammilyousuf)
 
