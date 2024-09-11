@@ -33,14 +33,14 @@ Here are my own projects that I'm particularly proud of:
 3. **[Ama-zing Shop](https://wwww.ama-zingshop.com)**
    - Description: An E-commerce website for shopify.com
    - Technologies: Shopify.
-   - ![Ama-zing Shop](https://media.giphy.com/media/3ohzdIuqJoo8QdP4cA/giphy.gif)
+   - ![Ama-zing Shop](https://github.com/muzammilyousuf/muzammilyousuf/blob/main/Picsart_23-10-25_00-41-30-734-1.png)
 
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/muzammil-yousuf/)
-- [Indeed](https://twitter.com/your-profile)
-- [Upwork](https://your-portfolio.com)
-- [Freelancer](https://your-portfolio.com)
+- [Indeed](https://indeed.com/muzammilyousuf)
+- [Upwork](https://upwork.com/muzammilyousuf)
+- [Freelancer](https://freelancers.com/muzammilyousuf)
 
 
 ## 🛠️ Technologies & Tools
