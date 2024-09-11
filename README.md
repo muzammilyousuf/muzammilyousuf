@@ -20,10 +20,10 @@ specializing in  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&
 
 Here are my own projects that I'm particularly proud of:
 
-1. **[Fuelbooks](https://github.com/your-username/project1)**
+1. **[Fuelbooks](https://github.com/muzammilyousuf/muzammilyousuf/blob/main/0911.gif)**
    - Description: A complete accounting management for Petrol Pump / Fuel Stations.
    - Technologies: React, CSS, HTML5, JavaScript
-   - ![Fuelbooks](https://media.giphy.com/media/26gsgYv12INcbzJt6/giphy.gif)
+   - ![Fuelbooks](https://github.com/muzammilyousuf/muzammilyousuf/blob/main/0911.gif)
 
 2. **[MCS](https://github.com/your-username/project2)**
    - Description: A complete website for Medical Center.
