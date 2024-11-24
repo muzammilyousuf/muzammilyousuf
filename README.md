@@ -38,6 +38,13 @@ Here are my own projects that I'm particularly proud of:
      
      ![Ama-zing Shop]()
 
+
+4. **[Desk Work Solution](https://dazzling-alpaca-0d3bde.netlify.app/)**
+   - Description: Web Development website.
+   - Technologies: React JS.
+     
+     ![Desk Work Solution]()
+
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/muzammil-yousuf/)
