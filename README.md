@@ -43,7 +43,9 @@ Here are my own projects that I'm particularly proud of:
    - Description: Web Development website.
    - Technologies: React JS.
      
-     Web View:![Desk Work Solution](https://github.com/muzammilyousuf/muzammilyousuf/blob/f96b302296f246a4bc7c86145ff0fe1b719c2dd9/Deskwork%20solution.gif) Mobile View: ![Desk Work Solution](https://github.com/muzammilyousuf/muzammilyousuf/blob/e7e4881e63770d80c16dd614f2266519084adace/Deskwork%20Solution%20Mobile%20View.gif)
+Mobile View: 
+![Desk Work Solution](https://github.com/muzammilyousuf/muzammilyousuf/blob/e7e4881e63770d80c16dd614f2266519084adace/Deskwork%20Solution%20Mobile%20View.gif)   Web View:
+![Desk Work Solution](https://github.com/muzammilyousuf/muzammilyousuf/blob/f96b302296f246a4bc7c86145ff0fe1b719c2dd9/Deskwork%20solution.gif) 
 
 ## 🌐 Connect with Me
 
