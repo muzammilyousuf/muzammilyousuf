@@ -47,7 +47,7 @@ Here are my own projects that I'm particularly proud of:
    - Description: A Responsive Web App for Desk Work Solution's Client.
    - Technologies: React JS.
      
-![Easy Hybrid Automotive](https://github.com/muzammilyousuf/muzammilyousuf/blob/main/0121.gif) 
+   ![Easy Hybrid Automotive](https://github.com/muzammilyousuf/muzammilyousuf/blob/main/0121.gif) 
 
 ## 🌐 Connect with Me
 
